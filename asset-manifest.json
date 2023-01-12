@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/steam-spa/static/css/main.c2209f27.css",
+    "main.js": "/steam-spa/static/js/main.53704c07.js",
+    "static/js/787.944a4a52.chunk.js": "/steam-spa/static/js/787.944a4a52.chunk.js",
+    "static/media/logo.svg": "/steam-spa/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/steam-spa/index.html",
+    "main.c2209f27.css.map": "/steam-spa/static/css/main.c2209f27.css.map",
+    "main.53704c07.js.map": "/steam-spa/static/js/main.53704c07.js.map",
+    "787.944a4a52.chunk.js.map": "/steam-spa/static/js/787.944a4a52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2209f27.css",
+    "static/js/main.53704c07.js"
+  ]
+}
