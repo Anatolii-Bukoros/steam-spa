@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/steam-spa/static/css/main.9071bff3.css",
-    "main.js": "/steam-spa/static/js/main.68987374.js",
+    "main.js": "/steam-spa/static/js/main.abcdb0cd.js",
     "static/js/787.944a4a52.chunk.js": "/steam-spa/static/js/787.944a4a52.chunk.js",
     "index.html": "/steam-spa/index.html",
     "main.9071bff3.css.map": "/steam-spa/static/css/main.9071bff3.css.map",
-    "main.68987374.js.map": "/steam-spa/static/js/main.68987374.js.map",
+    "main.abcdb0cd.js.map": "/steam-spa/static/js/main.abcdb0cd.js.map",
     "787.944a4a52.chunk.js.map": "/steam-spa/static/js/787.944a4a52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9071bff3.css",
-    "static/js/main.68987374.js"
+    "static/js/main.abcdb0cd.js"
   ]
 }
